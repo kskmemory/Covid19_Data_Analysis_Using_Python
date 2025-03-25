@@ -7,7 +7,7 @@ This COVID19 dataset, published by John Hopkins University, consists of the data
 # We can see, there is a +ve correlation between both the axis. As GDP per capita increases, max_infected_rates increases. 
 ![image](https://github.com/user-attachments/assets/44a38aa8-b3eb-4224-8ca1-88f34474d094)
 
-# We can observe that citizens of the developed countries are more prone to be infected'''
+# We can observe that citizens of the developed countries are more prone to be infected
 ![image](https://github.com/user-attachments/assets/735e988e-7dfa-4dd4-8d79-66f45bd9e58e)
 
 
